@@ -1,0 +1,8 @@
+{
+ :muuuid1             {:clj-pipelines/type                  :clj-pipelines/addmuuuid
+                      :clj-pipelines.addmuuuid/from        "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
+                      :clj-pipelines.addmuuuid/domain      "bedrijventerrein.vlaanderen.be"
+                      :clj-pipelines.addmuuuid/batch       "200000"
+                      :clj-pipelines/graphname             "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/muuuid"
+                      :clj-pipelines/dumpname              "bedrijventerrein-muuid.ttl.gz"}
+}
