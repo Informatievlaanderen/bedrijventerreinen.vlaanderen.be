@@ -2,4 +2,8 @@
                       :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-impl-bedrijventerrein/all.ttl"
                       :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/bedrijventerrein"
                       :clj-pipelines/dumpname             "bedrijventerrein.ttl.gz"}
+  :bedrijventerrein    {:clj-pipelines/type                 :clj-pipelines/file-import
+                        :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/all.ttl"
+                        :clj-pipelines/graphname            "http://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
+                        :clj-pipelines/dumpname             "bedrijventerrein.ttl.gz"}
 }

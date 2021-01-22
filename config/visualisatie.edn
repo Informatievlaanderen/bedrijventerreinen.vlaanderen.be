@@ -5,4 +5,11 @@
                       :clj-pipelines.addmuuuid/batch       "200000"
                       :clj-pipelines/graphname             "https://data.vlaanderen.be/id/dataset/bedrijventerrein/muuuid"
                       :clj-pipelines/dumpname              "bedrijventerrein-muuid.ttl.gz"}
+
+ :muuuid2             {:clj-pipelines/type                  :clj-pipelines/addmuuuid
+                      :clj-pipelines.addmuuuid/from        "http://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
+                      :clj-pipelines.addmuuuid/domain      "bedrijventerrein.vlaanderen.be"
+                      :clj-pipelines.addmuuuid/batch       "200000"
+                      :clj-pipelines/graphname             "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/muuuid"
+                      :clj-pipelines/dumpname              "bedrijventerrein-muuid.ttl.gz"}
 }
