@@ -5,53 +5,53 @@
 
 
   :bedrijventerrein-Aanbieder    {:clj-pipelines/type                 :clj-pipelines/file-import
-                        :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/Aanbieder.ttl"
+                        :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Aanbieder.ttl"
                         :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                         :clj-pipelines/dumpname             "Aanbieder.ttl.gz"}
   :bedrijventerrein-Bedrijventerrein    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/Bedrijventerrein.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Bedrijventerrein.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "Bedrijventerrein.ttl.gz"}
 
 
 
   :bedrijventerrein-BedrijventerreinPerceel1    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/BedrijventerreinPerceel1.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel1.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "BedrijventerreinPerceel1.ttl.gz"}
 
 
 
   :bedrijventerrein-BedrijventerreinPerceel2    {:clj-pipelines/type                 :clj-pipelines/file-import
-                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/BedrijventerreinPerceel2.ttl"
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel2.ttl"
                       :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                       :clj-pipelines/dumpname             "BedrijventerreinPerceel2.ttl.gz"}
 
 
 
   :bedrijventerrein-BedrijventerreinperceelBeperking    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/BedrijventerreinperceelBeperking.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinperceelBeperking.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "BedrijventerreinperceelBeperking.ttl.gz"}
 
 
 
   :bedrijventerrein-BeheerdeBedrijvenzone    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/BeheerdeBedrijvenzone.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BeheerdeBedrijvenzone.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "BeheerdeBedrijvenzone.ttl.gz"}
 
 
 
   :bedrijventerrein-GeregistreerdeOrganisatie    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/GeregistreerdeOrganisatie.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/GeregistreerdeOrganisatie.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "GeregistreerdeOrganisatie.ttl.gz"}
 
 
 
   :bedrijventerrein-OntwikkelbareBedrijvenzone    {:clj-pipelines/type                 :clj-pipelines/file-import
-                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-geo2rdf/OntwikkelbareBedrijvenzone.ttl"
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/OntwikkelbareBedrijvenzone.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein"
                           :clj-pipelines/dumpname             "OntwikkelbareBedrijvenzone.ttl.gz"}
 
