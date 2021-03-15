@@ -1,7 +1,7 @@
 [
   {
     "urlref": "/doc/implementatiemodel/bedrijventerrein/kandidaatstandaard/2021-03-12",
-    "repository": "https://github.com/bertvannuffelen/OSLOthema-perceel",
+    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
     "branchtag": "master",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein.json",
