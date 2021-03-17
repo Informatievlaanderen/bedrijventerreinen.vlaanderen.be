@@ -1,5 +1,6 @@
 [
   {
+	  "dummy": 1,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/kandidaatstandaard/2021-03-12",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
     "branchtag": "master",
