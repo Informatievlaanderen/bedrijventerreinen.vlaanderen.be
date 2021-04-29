@@ -1,5 +1,5 @@
 { :bedrijventerrein    {:clj-pipelines/type                 :clj-pipelines/file-import
-                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-impl-bedrijventerrein/all.ttl"
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-impl-master/all.ttl"
                       :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/bedrijventerrein"
                       :clj-pipelines/dumpname             "bedrijventerrein-codelist.ttl.gz"}
 
@@ -84,6 +84,17 @@
                           :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/OntwikkelbareBedrijvenzone.ttl"
                           :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/ontwikkelbarezone"
                           :clj-pipelines/dumpname             "OntwikkelbareBedrijvenzone.ttl.gz"}
+
+  :geometriemethode      {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/geometriemethode.ttl"
+                          :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/geometriemethode"
+                          :clj-pipelines/dumpname             "geometriemethode.ttl.gz"}
+  :2Dgeometriemethode      {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
+                      :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/2Dgeometriemethode"
+                      :clj-pipelines/dumpname             "2Dgeometriemethode.ttl.gz"}
+
+
 
 
 }
