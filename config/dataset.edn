@@ -1,5 +1,100 @@
 { :bedrijventerrein    {:clj-pipelines/type                 :clj-pipelines/file-import
-                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-impl-bedrijventerrein/all.ttl"
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
                       :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/bedrijventerrein"
-                      :clj-pipelines/dumpname             "bedrijventerrein.ttl.gz"}
+                      :clj-pipelines/dumpname             "bedrijventerrein-codelist.ttl.gz"}
+
+
+  :bedrijventerrein-Aanbieder    {:clj-pipelines/type                 :clj-pipelines/file-import
+                        :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Aanbieder.ttl"
+                        :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/aanbieder"
+                        :clj-pipelines/dumpname             "Aanbieder.ttl.gz"}
+  :bedrijventerrein-Bedrijventerrein    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Bedrijventerrein.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/terrein"
+                          :clj-pipelines/dumpname             "Bedrijventerrein.ttl.gz"}
+
+  :bedrijventerrein-BedrijventerreinPerceel0    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel0.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel0"
+                          :clj-pipelines/dumpname             "BedrijventerreinPerceel0.ttl.gz"}
+
+  :bedrijventerrein-BedrijventerreinPerceel1    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel1.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel1"
+                          :clj-pipelines/dumpname             "BedrijventerreinPerceel1.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel2    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel2.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel2"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel2.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel3    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel3.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel3"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel3.ttl.gz"}
+
+  :bedrijventerrein-BedrijventerreinPerceel4    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel4.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel4"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel4.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel5    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel5.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel5"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel5.ttl.gz"}
+
+  :bedrijventerrein-BedrijventerreinPerceel6    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel6.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel6"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel6.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel7    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel7.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel7"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel7.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel8    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel8.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel8"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel8.ttl.gz"}
+  :bedrijventerrein-BedrijventerreinPerceel9    {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel9.ttl"
+                      :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/perceel9"
+                      :clj-pipelines/dumpname             "BedrijventerreinPerceel9.ttl.gz"}
+
+
+
+  :bedrijventerrein-BedrijventerreinperceelBeperking    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinperceelBeperking.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/beperking"
+                          :clj-pipelines/dumpname             "BedrijventerreinperceelBeperking.ttl.gz"}
+
+
+
+  :bedrijventerrein-BeheerdeBedrijvenzone    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BeheerdeBedrijvenzone.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/beheerdezone"
+                          :clj-pipelines/dumpname             "BeheerdeBedrijvenzone.ttl.gz"}
+
+
+
+  :bedrijventerrein-GeregistreerdeOrganisatie    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/GeregistreerdeOrganisatie.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/organisatie"
+                          :clj-pipelines/dumpname             "GeregistreerdeOrganisatie.ttl.gz"}
+
+
+
+  :bedrijventerrein-OntwikkelbareBedrijvenzone    {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/OntwikkelbareBedrijvenzone.ttl"
+                          :clj-pipelines/graphname            "https://bedrijventerrein.vlaanderen.be/id/dataset/bedrijventerrein/ontwikkelbarezone"
+                          :clj-pipelines/dumpname             "OntwikkelbareBedrijvenzone.ttl.gz"}
+
+  :geometriemethode      {:clj-pipelines/type                 :clj-pipelines/file-import
+                          :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/geometriemethode.ttl"
+                          :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/geometriemethode"
+                          :clj-pipelines/dumpname             "geometriemethode.ttl.gz"}
+  :2Dgeometriemethode      {:clj-pipelines/type                 :clj-pipelines/file-import
+                      :clj-pipelines.file-import/filename "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
+                      :clj-pipelines/graphname            "https://data.vlaanderen.be/id/dataset/codelists/2Dgeometriemethode"
+                      :clj-pipelines/dumpname             "2Dgeometriemethode.ttl.gz"}
+
+
+
+
 }
