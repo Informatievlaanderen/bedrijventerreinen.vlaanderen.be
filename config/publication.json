@@ -1,9 +1,21 @@
 [
+
+  {
+	  "dummy": 6,
+    "urlref": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01",
+    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
+    "branchtag": "master",
+    "name": "bedrijventerrein",
+    "filename": "config/bedrijventerrein.json",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2020-05-04"
+    }
+  },
   {
 	  "dummy": 2,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/kandidaatstandaard/2021-04-01",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "master",
+    "branchtag": "d18fe56ecc64ef8fc12addc1580e3f0d2266c052",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein.json",
     "navigation": {
@@ -44,7 +56,7 @@
   {
     "dummy": 2,
     "urlref": "/doc/implementatiemodel/bedrijventerrein",
-    "seealso": "/doc/implementatiemodel/bedrijventerrein/kandidaatstandaard/2021-04-01",
+    "seealso": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01",
     "type": "ap"
   }
 ]
