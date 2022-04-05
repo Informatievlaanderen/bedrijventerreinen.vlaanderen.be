@@ -1,4 +1,15 @@
 [
+  {
+	  "dummy": 6,
+    "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-04-05",
+    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
+    "branchtag": "dev",
+    "name": "bedrijventerrein",
+    "filename": "config/bedrijventerrein.json",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01"
+    }
+  },
 
   {
 	  "dummy": 6,
