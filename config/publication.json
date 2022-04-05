@@ -1,6 +1,16 @@
 [
   {
 	  "dummy": 8,
+    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
+    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
+    "branchtag": "dev",
+    "name": "bedrijventerrein",
+    "filename": "config/bedrijventerrein-voc.json",
+    "navigation": {
+    }
+  },
+  {
+	  "dummy": 8,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-04-05",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
     "branchtag": "dev",
