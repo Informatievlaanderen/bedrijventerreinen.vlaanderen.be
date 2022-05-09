@@ -4,7 +4,7 @@
 	  "dummy": 6,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "master",
+    "branchtag": "ded3772e76fb25c8ff9ca0407a4432bff20f40db",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein.json",
     "navigation": {
