@@ -1,9 +1,19 @@
 [
   {
 	  "dummy": 10,
-    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
+    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-06-17",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
     "branchtag": "dev",
+    "name": "bedrijventerrein",
+    "filename": "config/bedrijventerrein-voc.json",
+    "navigation": {
+    }
+  },
+  {
+	  "dummy": 10,
+    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
+    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
+    "branchtag": "76fbcc662d0a7980f2be6ac7061fb436a4bcd6d6",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein-voc.json",
     "navigation": {
