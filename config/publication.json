@@ -32,7 +32,7 @@
     "type": "voc"
   },
   {
-	  "dummy": 15,
+	  "dummy": 16,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-06-17",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
     "branchtag": "dev",
