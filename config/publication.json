@@ -35,7 +35,7 @@
 	  "dummy": 16,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-06-17",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "d18fc90c1c1aec3d00096f6c551ae39aebb3cc3e",
+    "branchtag": "9168abd521ce578ec2a051abf918973d96eb6d93",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein.json",
     "navigation": {
