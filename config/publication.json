@@ -1,60 +1,5 @@
 [
   {
-	  "dummy": 14,
-    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-06-17",
-    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "dev",
-    "name": "bedrijventerrein",
-    "filename": "config/bedrijventerrein-voc.json",
-    "navigation": {
-    }
-  },
-  {
-	  "dummy": 10,
-    "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
-    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "76fbcc662d0a7980f2be6ac7061fb436a4bcd6d6",
-    "name": "bedrijventerrein",
-    "filename": "config/bedrijventerrein-voc.json",
-    "navigation": {
-    }
-  },
-  {
-    "dummy": 5,
-    "urlref": "/doc/vocabularium/bedrijventerrein",
-    "seealso": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
-    "type": "voc"
-  },
-  {
-    "dummy": 10,
-    "urlref": "/ns/bedrijventerrein",
-    "seealso": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-04-05",
-    "type": "voc"
-  },
-  {
-	  "dummy": 16,
-    "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-06-17",
-    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "9168abd521ce578ec2a051abf918973d96eb6d93",
-    "name": "bedrijventerrein",
-    "filename": "config/bedrijventerrein.json",
-    "navigation": {
-      "prev": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01"
-    }
-  },
-  {
-	  "dummy": 11,
-    "urlref": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-04-05",
-    "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "76fbcc662d0a7980f2be6ac7061fb436a4bcd6d6",
-    "name": "bedrijventerrein",
-    "filename": "config/bedrijventerrein.json",
-    "navigation": {
-      "prev": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01"
-    }
-  },
-
-  {
 	  "dummy": 6,
     "urlref": "/doc/implementatiemodel/bedrijventerrein/erkendestandaard/2021-04-01",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
@@ -62,8 +7,7 @@
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein.json",
     "navigation": {
-      "prev": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2020-05-04",
-      "next": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2022-04-05"
+      "prev": "/doc/implementatiemodel/bedrijventerrein/ontwerpdocument/2020-05-04"
     }
   },
   {
