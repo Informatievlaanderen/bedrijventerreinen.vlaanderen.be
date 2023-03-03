@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "this script is deprecated, please use findPublicationsToUpdate.sh followed by checkoutRepositories.sh"
+
+
 PUBCONFIG=$2
 ROOTDIR=$1
 
@@ -137,7 +140,7 @@ then
 	   fi
 	   comhash=$(git log | grep commit | head -1 | cut -d " " -f 2)
 	   echo "hashcode to add: ${comhash}"
-	   echo ${row} | base64 --decode | jq --arg comhash "${comhash}" --arg toolchainhash "${toolchainhash}" '. + {documentcommit : $comhash, toolchaincommit: $toolchainhash, hostname: "https://bedrijventerrrein.vlaanderen.be" }' > .publication-point.json
+	   echo ${row} | base64 --decode | jq --arg comhash "${comhash}" --arg toolchainhash "${toolchainhash}" '. + {documentcommit : $comhash, toolchaincommit: $toolchainhash, hostname: "https://otl-test.data.vlaanderen.be" }' > .publication-point.json
 	   cleanup_directory
         popd
 
@@ -181,5 +184,5 @@ then
     touch $ROOTDIR/rawcheckouts.txt
 else
     echo "problem in processing: ${PUBCONFIG}"
-    exit -1
+	exit -1
 fi
