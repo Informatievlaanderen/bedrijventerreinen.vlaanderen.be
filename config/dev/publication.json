@@ -3,7 +3,7 @@
 	  "dummy": 14,
     "urlref": "/doc/vocabularium/bedrijventerrein/ontwerpdocument/2022-06-17",
     "repository": "https://github.com/Informatievlaanderen/bron-bedrijventerreinen",
-    "branchtag": "dev",
+    "branchtag": "ee044b15679b369d92cf5a348de40b7448552b28",
     "name": "bedrijventerrein",
     "filename": "config/bedrijventerrein-voc.json",
     "navigation": {
