@@ -1,5 +1,5 @@
 {
-  "datasets": [
+  "conceptSchemes": [
     {
       "urlRef": "bedrijventerrein",
       "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
