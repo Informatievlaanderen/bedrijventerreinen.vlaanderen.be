@@ -1,10 +1,6 @@
 {
   "conceptSchemes": [
     {
-      "urlRef": "bedrijventerrein",
-      "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
-    },
-    {
       "urlRef": "aanbieder",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Aanbieder.ttl"
     },
@@ -69,12 +65,20 @@
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/OntwikkelbareBedrijvenzone.ttl"
     },
     {
+      "urlRef": "bedrijventerrein",
+      "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
+    },
+    {
       "urlRef": "geometriemethode",
       "sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/geometriemethode.ttl"
     },
     {
       "urlRef": "2Dgeometriemethode",
       "sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelRuimtelijkeEenheidtype",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinRuimtelijkeEenheidtype.ttl"
     }
   ]
 }
