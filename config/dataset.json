@@ -1,72 +1,72 @@
 {
   "conceptSchemes": [
     {
-      "urlRef": "bedrijventerrein",
-      "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
-    },
-    {
-      "urlRef": "aanbieder",
+      "urlRef": "_aanbieder",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Aanbieder.ttl"
     },
     {
-      "urlRef": "bedrijventerrein",
+      "urlRef": "_bedrijventerrein",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/Bedrijventerrein.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel0",
+      "urlRef": "_bedrijventerreinPerceel0",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel0.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel1",
+      "urlRef": "_bedrijventerreinPerceel1",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel1.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel2",
+      "urlRef": "_bedrijventerreinPerceel2",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel2.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel3",
+      "urlRef": "_bedrijventerreinPerceel3",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel3.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel4",
+      "urlRef": "_bedrijventerreinPerceel4",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel4.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel5",
+      "urlRef": "_bedrijventerreinPerceel5",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel5.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel6",
+      "urlRef": "_bedrijventerreinPerceel6",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel6.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel7",
+      "urlRef": "_bedrijventerreinPerceel7",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel7.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel8",
+      "urlRef": "_bedrijventerreinPerceel8",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel8.ttl"
     },
     {
-      "urlRef": "bedrijventerreinPerceel9",
+      "urlRef": "_bedrijventerreinPerceel9",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinPerceel9.ttl"
     },
     {
-      "urlRef": "bedrijventerreinperceelBeperking",
+      "urlRef": "_bedrijventerreinperceelBeperking",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BedrijventerreinperceelBeperking.ttl"
     },
     {
-      "urlRef": "beheerdeBedrijvenzone",
+      "urlRef": "_beheerdeBedrijvenzone",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/BeheerdeBedrijvenzone.ttl"
     },
     {
-      "urlRef": "geregistreerdeOrganisatie",
+      "urlRef": "_geregistreerdeOrganisatie",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/GeregistreerdeOrganisatie.ttl"
     },
     {
-      "urlRef": "ontwikkelbareBedrijvenzone",
+      "urlRef": "_ontwikkelbareBedrijvenzone",
       "sourceUrl": "https://bedrijventerreinstorevl.blob.core.windows.net/bedrijventerreinen-data/OntwikkelbareBedrijvenzone.ttl"
+    },
+    {
+      "urlRef": "bedrijventerrein",
+      "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
     },
     {
       "urlRef": "geometriemethode",
@@ -75,6 +75,38 @@
     {
       "urlRef": "2Dgeometriemethode",
       "sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBeschikbaarheid",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeschikbaarheid.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelInGebruik",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinInGebruik.ttl"
+    },
+    {
+      "urlRef": "RuimtelijkeEenheidOppervlaktetype",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/RuimtelijkeEenheidOppervlaktetype.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBeperking",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeperking.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelRuimtelijkeEenheidtype",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinRuimtelijkeEenheidtype.ttl"
+    },
+    {
+      "urlRef": "OntwikkelbareBedrijvenzoneOntwikkelingsstatus",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijvenzoneOntwikkelingsstatus.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelFunctie",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelFunctie.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBebouwing",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinBebouwing.ttl"
     }
   ]
 }
