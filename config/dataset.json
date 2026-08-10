@@ -1,48 +1,48 @@
 {
-"conceptSchemes": [
-{
-"urlRef": "bedrijventerrein",
-"sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
-},
-{
-"urlRef": "geometriemethode",
-"sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/geometriemethode.ttl"
-},
-{
-"urlRef": "2Dgeometriemethode",
-"sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelBeschikbaarheid",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeschikbaarheid.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelInGebruik",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinInGebruik.ttl"
-},
-{
-"urlRef": "RuimtelijkeEenheidOppervlaktetype",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/RuimtelijkeEenheidOppervlaktetype.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelBeperking",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeperking.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelRuimtelijkeEenheidtype",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinRuimtelijkeEenheidtype.ttl"
-},
-{
-"urlRef": "OntwikkelbareBedrijvenzoneOntwikkelingsstatus",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijvenzoneOntwikkelingsstatus.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelFunctie",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelFunctie.ttl"
-},
-{
-"urlRef": "BedrijventerreinperceelBebouwing",
-"sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinBebouwing.ttl"
-}
-]
+  "conceptSchemes": [
+    {
+      "urlRef": "bedrijventerrein",
+      "sourceUrl": "https://github.com/Informatievlaanderen/OSLO-codelistgenerated/raw/bedrijventerrein-master/all.ttl"
+    },
+    {
+      "urlRef": "geometriemethode",
+      "sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/geometriemethode.ttl"
+    },
+    {
+      "urlRef": "2Dgeometriemethode",
+      "sourceUrl": "https://github.com/Informatievlaanderen/codelijsten/raw/master/adressenregister/2Dgeometriemethode.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBeschikbaarheid",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeschikbaarheid.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelInGebruik",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinInGebruik.ttl"
+    },
+    {
+      "urlRef": "RuimtelijkeEenheidOppervlaktetype",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/RuimtelijkeEenheidOppervlaktetype.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBeperking",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelBeperking.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelRuimtelijkeEenheidtype",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinRuimtelijkeEenheidtype.ttl"
+    },
+    {
+      "urlRef": "OntwikkelbareBedrijvenzoneOntwikkelingsstatus",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijvenzoneOntwikkelingsstatus.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelFunctie",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinperceelFunctie.ttl"
+    },
+    {
+      "urlRef": "BedrijventerreinperceelBebouwing",
+      "sourceUrl": "https://raw.githubusercontent.com/Informatievlaanderen/bron-bedrijventerreinen/refs/heads/master/codelijsten/BedrijventerreinBebouwing.ttl"
+    }
+  ]
 }
